@@ -8,6 +8,8 @@ body {
   font: 16px / 1 sans-serif;
   background-color: aqua;
 }
-h1 {
+
+h1 p img {
   border: 5px solid silver;
+  width: 200px;
 }
